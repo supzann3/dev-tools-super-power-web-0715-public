@@ -41,5 +41,5 @@ If you want to attempt to change any of the styles of the page, take a look at t
 
 Feel free to play around, check and uncheck boxes, change colors, change pixels. It's okay if you "mess things up", just refresh the browser and it will all go back to how it was!
 
-
+All done, edit the html of artist Taylor Swift
 
